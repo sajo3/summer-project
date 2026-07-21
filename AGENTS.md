@@ -61,3 +61,6 @@ language : PHP
 
 # context7
 When you need to search docs, use `context7` tools.
+
+# Design system 
+read DESIGN.md file 
